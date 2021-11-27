@@ -132,7 +132,7 @@ function App() {
             </Container>
             <hr></hr>
             <Container>
-                  <Row className="tweet-row">
+                  <Row className="tweet-row info">
                   <span style={{fontWeight: 'bold'}}>Info:</span>
                     <ol style={{marginLeft: '2%'}}>
                       <li><b>Positive:</b> tweet is positive towards CAA/NRC</li>
